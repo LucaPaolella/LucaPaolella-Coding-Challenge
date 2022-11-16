@@ -1,0 +1,96 @@
+/* Valori Generali */
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.Contenitore {
+ background-color: rgba(0, 0, 0, 0.5);
+ display: block;
+ margin-left: 18%;
+ margin-right: 18%;
+ margin-top: 2%;
+ margin-bottom: 5%;
+}
+
+/* Header */
+.logo {
+ margin-left: auto;
+ margin-right: auto;
+ height: 20%;
+ width: 20%;
+ padding-top: 8%;
+ display: block;
+ }
+
+.Titolo {
+ text-align: center;
+ color: LimeGreen;
+ margin-top: 1%;
+}
+
+/* nav */
+nav {
+ display: inline-block;
+ text-align: center;
+ margin-left: 10%;
+ margin-right: 10%;
+ padding-top: 1%;
+ padding-bottom: 1%;
+ padding-left: 28%;
+ padding-right: 28%;
+ background-color: LimeGreen;
+}
+
+/* Sezione 1 + caratteri generali per tutte le sezioni*/
+.Quadratino {
+  margin-left: 10%;
+}
+
+.Sottotitolo{
+  display: inline-block;
+  color: white;
+}
+
+.Freccina{
+  color: white;
+  margin-left: 10%;
+}
+
+.Via{
+  color: white;
+  font-size: 18px;
+}
+
+.FineSezione1{
+  color: white;
+  margin-left: 10%;
+  border-bottom: 20px solid SandyBrown;
+  margin-right: 60%;
+  font-size: 20px;
+}
+
+/* Sezione 2 */
+.FineSezione2{
+  color: white;
+  margin-left: 10%;
+  border-bottom: 20px solid LimeGreen;
+  margin-right: 40%;
+  font-size: 20px;
+}
+
+/* Sezione 3 */
+.FineSezione3{
+  color: white;
+  margin-left: 10%;
+  border-bottom: 20px solid rgb(160, 50, 50);
+  margin-right: 75%;
+  margin-bottom: 10%;
+  font-size: 20px;
+}
+
+/* Spazio Finale */
+.SpazioFinale{
+  padding-bottom: 5%;
+}
